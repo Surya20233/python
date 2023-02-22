@@ -1,0 +1,8 @@
+# programe using nested if to check the number’s range in the  position constant  
+num=int(input("enter a number below 30"))
+if num > 0:
+    print("range is 0-10")
+if num > 10:
+    print("range is 10-20")
+if num > 20:
+    print("range is 20-30")

@@ -1,0 +1,9 @@
+n=10
+k=5
+m=int(input("enter a value"))
+if m==0 or k>5:
+      print("invalied")
+      print("avalible candies",n)
+elif m<=k:
+      print("no of candies sold")
+      print("remaining candies avaliblenin jar",n)

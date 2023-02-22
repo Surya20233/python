@@ -1,0 +1,6 @@
+# programe to evaluate list of cubes till the rage of 10
+cubes =[]
+for i in range (11):
+    cubes.append(i**3)
+print(cubes)
+
